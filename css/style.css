@@ -1,0 +1,48 @@
+
+body {
+    background-color: #24353f;
+}
+
+.container {
+    background-color: #24353f!important;
+}
+
+form {
+    background-color: #24353f!important;
+    box-shadow: 0px 0px 10px 15px !important;
+
+}
+
+input {
+    background-color: #24353f!important;   
+}
+
+
+.form-control::placeholder {
+    color: gainsboro;
+    opacity: 1;
+}
+
+.container2 a {
+   transition: all;
+}
+
+.container2 a:hover {
+    border-bottom: solid 2px white;
+    width: 100%;
+}
+
+.container3 a{
+    transition: all;
+}
+
+.container3 a:hover {
+    border-bottom: solid 2px white;
+    width: 100%;
+}
+
+
+.welcome {
+    background-color: #24353f!important;
+    box-shadow: 0px 0px 10px 15px !important;
+}
